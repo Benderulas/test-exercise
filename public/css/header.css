@@ -1,0 +1,42 @@
+.navbar
+{
+    text-align: center;
+    width: 100%;
+}
+.navbar > form
+{
+    display: inline;
+}
+.nav-link
+{
+    background: none;
+    color: #000;
+    cursor: pointer;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    margin: 0 20px;
+    padding: 0 10px;
+    font-family: "Times New Roman";
+}
+.nav-link:hover
+{
+    background: lightgray;
+}
+.user-balance
+{
+    position: absolute;
+    width: 200px;
+}
+.user-balance > span
+{
+    font-size: 20px;
+    font-family: "Times New Roman";
+}
+.header
+{
+    background: aliceblue;
+    display: flex;
+    justify-content: flex-end;
+}

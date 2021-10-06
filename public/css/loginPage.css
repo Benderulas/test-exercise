@@ -1,0 +1,31 @@
+.login-form
+{
+    text-align: center;
+    margin-top: 5%;
+}
+.login-form-inputs
+{
+    display: inline-block;
+    text-align: center;
+}
+.login-form-inputs > input
+{
+    display: block;
+    font-size: 18px;
+}
+.login-form-labels
+{
+    display: inline-block;
+    text-align: right;
+    font-size: 18px;
+}
+.login-form-submit
+{
+    text-align: center;
+    margin-top: 10px;
+}
+.login-form-submit > input
+{
+    font-size: 15px;
+    width: 70px;
+}

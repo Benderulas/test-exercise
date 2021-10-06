@@ -1,0 +1,18 @@
+.bill
+{
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-around;
+}
+.bill-info
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.bill-info > span
+{
+    border: 1px solid black;
+    padding: 3px;
+    margin-top: 5px;
+}
